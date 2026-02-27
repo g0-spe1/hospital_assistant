@@ -1,0 +1,8 @@
+# 核心依赖
+langgraph>=0.0.20
+langchain-core>=0.1.0
+agent-framework>=0.1.0
+python-dotenv>=1.0.0
+
+# 可选：用于 LangGraph 对话持久化（TD-003 优化项）
+# langgraph-checkpoint-sqlite>=0.1.0
